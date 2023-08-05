@@ -1,0 +1,14 @@
+/.DS_Store
+/.vscode
+/Data
+/Models
+/Pages
+/Program.cs
+/Properties
+/Startup.cs
+/appsettings.Development.json
+/appsettings.json
+/bin
+/inventory.csproj
+/obj
+/wwwroot
